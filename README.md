@@ -8,4 +8,4 @@
 <!---
 Sheila-Marvelous-Akitty/Sheila-Marvelous-Akitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->We were given a project on how to create visializations in python using the matplotlib library
